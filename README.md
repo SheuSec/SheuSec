@@ -1,8 +1,9 @@
 # Hi, i'm SHeu Abduljelil (Olamide)
 
 ## ⚡ABOUT ME
-I'm a cybersecurity intern at NIITPH, passionate about offensive and defensive cybersecurity.
-I enjoy building practical cybersecurity projects that demonstrate real-world skills
+## 🛡️ About Me
+
+I'm a Cybersecurity Analyst with a strong foundation in Security Operations (SOC), defensive security, and offensive security principles. I enjoy solving real-world security challenges through hands-on projects.
 - Pentration Testing
 - Log Analysis
 - Malware Analysis
