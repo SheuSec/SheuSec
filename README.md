@@ -47,6 +47,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
 
   ## CERTIFICATIONS
   -ISC2 CC (In Progress)
+  
   -CompTIA Security+ (In Progress)
 
   ## EDUCATION
