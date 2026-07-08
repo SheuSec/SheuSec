@@ -6,6 +6,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
 - Pentration Testing
 - Log Analysis
 - Malware Analysis
+- Cryptography
 - Digital Forensics
 - OSINT
 - Vulnerability Assessment
@@ -53,7 +54,6 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
   - University Of Ilorin Islamic Law  
 
   ## CONTACT
-  
-  - Email: odorishalom@gmail.com
-  - linkedin - 
-https://www.linkedin.com/in/shalom-odori?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  - Email: Sheuabduljelil@gmail.com
+  - linkedin - www.linkedin.com/in/sheu-abduljelil-olamide
+
