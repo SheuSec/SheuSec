@@ -1,8 +1,6 @@
 # Hi, i'm SHeu Abduljelil (Olamide)
 
 ## ⚡ABOUT ME
-## 🛡️ About Me
-
 I'm a Cybersecurity Analyst with a strong foundation in Security Operations (SOC), defensive security, and offensive security principles. I enjoy solving real-world security challenges through hands-on projects.
 - Pentration Testing
 - Log Analysis
