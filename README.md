@@ -17,7 +17,7 @@ I'm a Cybersecurity Analyst with a strong foundation in Security Operations (SOC
   | PROJECT | DESCRIPTION | REPROSITORY |
   |---------|-------------|-------------|
   |Osint Investigation | Conducted an OSINT investigation on a target organization | Coming soon |
-  |Log Analysis | Analyzed IIS and Windows Events Logs to identify attacks | Coming soon |
+  |Log Analysis | Web Server Log Analysis Using Kali Linux | https://github.com/SheuSec/Web-Server-Log-Analysis |
 
   ##  ⚡SKILLS
   ### ⚡OPERATING SYSTEMS
