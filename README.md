@@ -101,3 +101,15 @@ I'm a Cybersecurity Analyst with a strong foundation in Security Operations (SOC
   - Email: Sheuabduljelil@gmail.com
   - linkedin - www.linkedin.com/in/sheu-abduljelil-olamide
 
+    🔍 Sample Commands
+Count GET Requests
+grep -c "GET" access-1.log
+Count Unique IP Addresses
+awk '{print $1}' access-2.log | sort | uniq | wc -l
+Find the Most Active IP Address
+awk '{print $1}' access-2.log | sort | uniq -c | sort -nr
+Find the Most Requested URL
+awk '{print $7}' access-2.log | sort | uniq -c | sort -nr
+Count HTTP 200 Responses
+awk '$9==200' access-2.log | wc -l
+
