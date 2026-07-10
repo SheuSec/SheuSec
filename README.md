@@ -19,7 +19,7 @@ I'm a Cybersecurity Analyst with a strong foundation in Security Operations (SOC
   |Osint Investigation | Conducted an OSINT investigation on a target organization | Coming soon |
   |Log Analysis | Web Server Log Analysis Using Kali Linux | https://github.com/SheuSec/Web-Server-Log-Analysis |
   |Host Based Security Lab| Hands-on Windows Administration and Host Security Practical Using Native Windows Tools | https://github.com/SheuSec/-Windows-Host-Based-Security-Lab |
-
+  |Windows Event Log Analysis Using Command Prompt (CMD)| A Practical Investigation of Windows Event Logs Using Native Windows Command-Line Utilities| 
   ##  ⚡SKILLS
   ### ⚡OPERATING SYSTEMS
   - Windows
