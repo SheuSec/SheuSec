@@ -14,7 +14,8 @@ I'm a Cybersecurity Analyst with a strong foundation in Security Operations (SOC
 - Threat Hunting
 - Social Engineering
 - Governance Risk and Compliance
-  ### ⚡OPERATING SYSTEMS
+
+ ### ⚡OPERATING SYSTEMS
   - Windows
   - Linux
 
