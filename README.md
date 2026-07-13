@@ -2,6 +2,8 @@
 
 ## ⚡ABOUT ME
 I'm a Cybersecurity Analyst with a strong foundation in Security Operations (SOC), defensive security, and offensive security principles. I enjoy solving real-world security challenges through hands-on projects.
+
+  ##  ⚡SKILLS
 - Pentration Testing
 - Log Analysis
 - Malware Analysis
@@ -12,15 +14,6 @@ I'm a Cybersecurity Analyst with a strong foundation in Security Operations (SOC
 - Threat Hunting
 - Social Engineering
 - Governance Risk and Compliance
-  
- ## ⚡PROJECTS
-  | PROJECT | DESCRIPTION | REPROSITORY |
-  |---------|-------------|-------------|
-  |Osint Investigation | Conducted an OSINT investigation on a target organization | Coming soon |
-  |Log Analysis | Web Server Log Analysis Using Kali Linux | https://github.com/SheuSec/Web-Server-Log-Analysis |
-  |Host Based Security Lab| Hands-on Windows Administration and Host Security Practical Using Native Windows Tools | https://github.com/SheuSec/-Windows-Host-Based-Security-Lab |
-  |Windows Event Log Analysis Using Command Prompt (CMD)| A Practical Investigation of Windows Event Logs Using Native Windows Command-Line Utilities| https://github.com/SheuSec/Windows-Event-Log-Analysis-Using-Command-Prompt-CMD-|
-  ##  ⚡SKILLS
   ### ⚡OPERATING SYSTEMS
   - Windows
   - Linux
@@ -88,6 +81,14 @@ I'm a Cybersecurity Analyst with a strong foundation in Security Operations (SOC
  - Oracle VirtualBox
  - Hyper-V
  - Docker
+
+## ⚡PROJECTS
+  | PROJECT | DESCRIPTION | REPROSITORY |
+  |---------|-------------|-------------|
+  |Osint Investigation | Conducted an OSINT investigation on a target organization | Coming soon |
+  |Log Analysis | Web Server Log Analysis Using Kali Linux | https://github.com/SheuSec/Web-Server-Log-Analysis |
+  |Host Based Security Lab| Hands-on Windows Administration and Host Security Practical Using Native Windows Tools | https://github.com/SheuSec/-Windows-Host-Based-Security-Lab |
+  |Windows Event Log Analysis Using Command Prompt (CMD)| A Practical Investigation of Windows Event Logs Using Native Windows Command-Line Utilities| https://github.com/SheuSec/Windows-Event-Log-Analysis-Using-Command-Prompt-CMD-|
    
   ## CERTIFICATIONS
   -ISC2 CC (In Progress)
