@@ -4,17 +4,18 @@
 I'm a Cybersecurity Analyst with a strong foundation in Security Operations (SOC), defensive security, and offensive security principles. I enjoy solving real-world security challenges through hands-on projects.
 
   ##  ⚡SKILLS
-- Pentration Testing
+- Security Operations Center (SOC)
 - Log Analysis
-- Malware Analysis
-- Cryptography
-- Digital Forensics
-- OSINT
-- Vulnerability Assessment
 - Threat Hunting
+- Vulnerability Assessment
+- Penetration Testing
+- Malware Analysis
+- Digital Forensics
+- Open Source Intelligence (OSINT)
+- Windows Administration
+- Cryptography
 - Social Engineering
-- Governance Risk and Compliance
-
+- Governance, Risk & Compliance (GRC)
  ### ⚡OPERATING SYSTEMS
   - Windows
   - Linux
